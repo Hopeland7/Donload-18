@@ -12,7 +12,7 @@ fi
 
 if [ $ins = no ]
 then
-cd hay
+cd new
 sh index.sh
 fi
 
@@ -23,6 +23,6 @@ fi
 
 if [ $ins = No ]
 then
-cd hay
+cd new
 sh index.sh
 fi
