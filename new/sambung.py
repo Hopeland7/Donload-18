@@ -1,4 +1,4 @@
-#Gila tools Gua Di Recode
+4#Gila tools Gua Di Recode
 import os
 import sys
 
@@ -21,5 +21,5 @@ if tools ==2:
 
 if tools ==3:
         os.system("cd remove")
-        os.system("sh nek.sh")
+        os.system("sh nekopoi.sh")
         print ("Done")
