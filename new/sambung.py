@@ -22,4 +22,5 @@ if tools ==2:
 if tools ==3:
         os.system("cd remove")
         os.system("sh nekopoi.sh")
+        os.system("sh index.sh")
         print ("Done")
