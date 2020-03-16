@@ -12,6 +12,7 @@ fi
 
 if [ $ins = no ]
 then
+rm -rf install.py
 cd new
 sh index.sh
 fi
@@ -23,6 +24,7 @@ fi
 
 if [ $ins = No ]
 then
+rm -rf install.py
 cd new
 sh index.sh
 fi
